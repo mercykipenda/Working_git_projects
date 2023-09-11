@@ -1,0 +1,27 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+---
+title: "Working with git"
+author:
+  -name: Mercy Kipenda
+  email: mercykipenda56@gmail.com
+  affiliation: 
+  -name: Natural Resources department
+  address: 3310 Holdredge
+date: 09/11/2023
+format: 
+  html:
+    theme: united
+    self-contained: true
+editor: source
+---
+
+### Introduction
+We are going to be using a document generating framework (Quarto, built off of RMarkdown) to explore how to use git and give us a background into using Quarto to generate a document.  
+
+Lots of help can be found [here](https://quarto.org/docs/guide/)
+
+## Quarto
